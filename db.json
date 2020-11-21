@@ -1,9 +1,11 @@
 {
-  "quizzes": [
+  "posts": [
     {
       "id": 1,
-      "title": "hello",
-      "description": "no"
+      "title": "hello"
     }
-  ]
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
