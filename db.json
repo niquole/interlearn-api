@@ -1,8 +1,9 @@
-
-"quizzes": [
 {
-"id": 1,
-"title": "this is a Title from the api",
-"description": "this is a description from the api"
+  "quizzes": [
+    {
+      "id": 1,
+      "title": "hello",
+      "description
+    }
+  ]
 }
-]
